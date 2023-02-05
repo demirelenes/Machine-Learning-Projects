@@ -11,7 +11,8 @@ Basic machine learning projects that I have done in the learning process using v
 * k-Means Clustering
 * Feature Selection
 * Dimensionality Reduction
-* Data Scaling
+* Data Scaling and Normalization
+* Hyperparameter Tuning
 * Pipelining
 * k-Fold Cross Validation
 * Ensembling
