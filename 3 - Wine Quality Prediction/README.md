@@ -1,1 +1,1 @@
-Wine quality prediction using Decision Trees and applying hyperparameter selection.
+Wine quality prediction using Decision Trees and applying hyperparameter tuning.
